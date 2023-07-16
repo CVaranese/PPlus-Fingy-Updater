@@ -1,5 +1,5 @@
-{"hash": "81e0a8f8a53f429b341d440ddb2d2b7802b66d52",
- "version": "FPM v2.29 BETA",
- "changelog": "Update to P+ 2.29 \nSpectator mode hitbox is no longer the size of saturn",
- "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.29/PPlusv2.29Windows.zip",
- "download-page-mac": "https://github.com/jlambert360/PPlusReleases/releases/download/2.29/PPlusv2.29Mac.zip"}
+{"hash": "73c9b7c6f5bccc2ed5b55c1b7291edc11d3b58aa",
+ "version": "Fingy Build v6.0.0 (2.4.2)",
+ "changelog": "Update to Fingy 6.0.0",
+ "download-page-windows": "https://github.com/CVaranese/PPlus-Fingy-Updater/releases/download/6.0.0/FingyBuild6.0.2.4.2.zip",
+ "download-page-mac": ""}
